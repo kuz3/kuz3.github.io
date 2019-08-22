@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## JAMES BYTES
 
 You can use the [editor on GitHub](https://github.com/kuz3/kuz3.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
